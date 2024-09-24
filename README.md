@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Hem-Desai
-- 👀 I’m interested in API related projects 
-- 🌱 I’m currently learning Web Developing
-- 💞️ I’m looking to collaborate on API related projects, 8 Bit Games and Web Development (In short future)
-- 📫 How to reach me through my fiverr profile : Hem_Desai 
+- I'm a developer focused on Python-based projects, diving into everything from LLMs to back-end development with Flask, data science, and even some 8-bit games.
+- I'm all about Project-Based Learning (PBL) — tackling real-world problems while constantly evolving my skills. My toolbelt includes Python, C++, JS, and the Flask framework. Right now, I'm expanding my horizons with Node and React.
+- GitHub is my playground, but also a space where potential employers can see my work and attest to what I bring to the table. I like to keep it both fun and professional, so feel free to explore my projects!
+
+  
 
 <!---
 Hem-Desai/Hem-Desai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
