@@ -1,7 +1,6 @@
-- Hi, I’m @Hem-Desai
-- I'm a developer focused on Python-based projects, diving into everything from LLMs to back-end development with Flask, data science, and even some 8-bit games.
-- I'm all about Project-Based Learning (PBL) — tackling real-world problems while constantly evolving my skills. My toolbelt includes Python, C++, JS, and the Flask framework. Right now, I'm exploring more of Web Development.
-
+- Hi, I’m @Hem-Desai a Software developer from Ahmedabad, building stuff.
+- Welcome to my little corner of the internet, where I turn caffeine and curiosity into softwares (hopefully working).
+- I'm all about Project-Based Learning (PBL) — tackling real-world problems while constantly evolving my skills. My toolbelt includes a swiss knife.
 
   
 
